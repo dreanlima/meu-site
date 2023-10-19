@@ -1,3 +1,73 @@
 @charset "UTF-8";
 
 
+
+body{
+	
+	background-color: rgba(15, 118, 88, 0.567);
+	background-image: url(20231011_075641.jpg);
+	background-size:200px;
+	background-repeat: no-repeat;
+	background-position:left left;
+}
+div.titulo{
+	
+	text-align: center;
+	font-size: 3vw;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, ;
+	color: rgba(255, 0, 0, 0.575);
+	position: relative;
+	top: -200px;
+}
+div.subtitulo{
+	text-decoration: underline;
+	text-align: center;
+	font-size: 2vw;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	position: relative;
+	top: -150px;
+}
+div.info.pessoal{
+	height: 200px;
+	border: 1px solid black;
+	border-radius: 50px;
+	margin: 5px;
+	
+	position: relative;
+	top:300px;
+
+}
+
+div.experiencia1{		
+	padding: 10px;
+	height: 200px;
+	border: 1px solid black;
+	border-radius: 50px;
+	margin: 10px;
+	position: relative;
+	top:300px;
+}
+
+div.experiencia2{
+	
+	height: 220px;
+	border: 1px solid black;
+	border-radius: 50px;
+	margin: 5px;
+	position: relative;
+	top: 450px;
+	margin-bottom: 210px;
+
+}
+div.informação{
+margin-left: 250px;
+margin-top: -350px;			
+	
+}
+div.informação2{
+margin-left: 250px;
+margin-top: 250px;			
+	
+}
+
+
