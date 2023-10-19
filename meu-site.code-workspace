@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../projeto-android"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "meu-site"
+	}
+}
